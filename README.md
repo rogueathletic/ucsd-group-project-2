@@ -10,8 +10,8 @@
 
 
 
-<details align="center"><summary align="center"><h1>Best Friend Finder</h1></summary>
-  <span><h2>UCSD</h2></span><span><h3>Full Stack Web Dev Assignment 14</h3></span>
+<details align="center"><summary align="center"><h1>Group Project 2</h1></summary>
+  <span><h2>UCSD</h2></span><span><h3>UCSD Full Stack Web Dev Assignment group project 2</h3></span>
 
 
 
