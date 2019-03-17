@@ -25,6 +25,12 @@
 
 <details align="center"><summary align="center"> H E R O K U </summary>content</details>
 
+
+<details align="center"><summary align="center"> T R A V I S &nbsp; C I </summary>content</details>
+
+
+<details align="center"><summary align="center"> KA N B A N &nbsp; P R O J E C T &nbsp; M A N A G E R </summary>content</details>
+
 <details align="center"><summary align="center"> C O N T A C T </summary>  <span> <a href="mailto:jason@rogueathletic.com" target="_blank"> Contact </a> </span></details>
 </details>
 
