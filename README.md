@@ -10,7 +10,7 @@ Simple Node/Express CRUD application and scaffolding to help students quickly ge
 
 ## Development Setup
 
-```
+```txt
 # Install packages
 npm install
 
@@ -27,8 +27,8 @@ npm test
 npm start
 ```
 
-## Heroku Deployment
-1. Create application [https://devcenter.heroku.com/articles/git](https://devcenter.heroku.com/articles/git)
-2. Add on JawsDB [https://devcenter.heroku.com/articles/jawsdb](https://devcenter.heroku.com/articles/jawsdb)
-
-
+  Heroku Deployment  
+1.
+ Create application [https://devcenter.heroku.com/articles/git](https://devcenter.heroku.com/articles/git)
+2.
+Add on JawsDB [https://devcenter.heroku.com/articles/jawsdb](https://devcenter.heroku.com/articles/jawsdb)
