@@ -1,43 +1,34 @@
+# Express App Starter [![Build Status](https://travis-ci.com/bburrier/express-ci-starter.svg?branch=master)](https://travis-ci.com/bburrier/express-ci-starter)
 
-<div align="center">
-  <span> <a href="#top"> Home </a> </span> | 
-  <span> <a href="#intro"> D E M O </a> </span> | 
-  <span> <a href="#htss"> H T M L \ C S S </a> </span> | 
-  <span> <a href="#express"> E X P R E S S </a> </span> | 
-  <span> <a href="#heroku"> H E R O K U </a> </span> | 
-  <span> <a href="mailto:jason@rogueathletic.com" target="_blank"> Contact </a> </span>
-</div>
+Simple Node/Express CRUD application and scaffolding to help students quickly get started with a new project, with tests and CI support.
 
+- Node + Express
+- Sequelize
+- Handlebars
+- Mocha + Chai
+- Travis CI
 
+## Development Setup
 
-<details align="center"><summary align="center"><h1>Group Project 2</h1></summary>
-  <span><h2>UCSD</h2></span><span><h3>UCSD Full Stack Web Dev Assignment group project 2</h3></span>
+```
+# Install packages
+npm install
 
+# Initialize local database
+mysql < models/schema.sql
 
+# Create .env, update as needed
+cp .env.example .env
 
-<details align="center"><summary align="center"> D E M O </summary><a href="https://www.youtube.com/watch?v=JHurCXqH6KI">
-<img src="https://i.imgur.com/cS1UuUW.png" width="80%">
-</a></details>
+# Run tests
+npm test
 
-<details align="center"><summary align="center"> S E R V E R . J S </summary><p>The server configuration</p> </details>
+# Start node application
+npm start
+```
 
-<details align="center"><summary align="center"> E X P R E S S . J S </summary>content</details>
-
-<details align="center"><summary align="center"> H E R O K U </summary>content</details>
-
-
-<details align="center"><summary align="center"> T R A V I S &nbsp; C I </summary>content</details>
-
-
-<details align="center"><summary align="center"> KA N B A N &nbsp; P R O J E C T &nbsp; M A N A G E R </summary>content</details>
-
-<details align="center"><summary align="center"> C O N T A C T </summary>  <span> <a href="mailto:jason@rogueathletic.com" target="_blank"> Contact </a> </span></details>
-</details>
+## Heroku Deployment
+1. Create application [https://devcenter.heroku.com/articles/git](https://devcenter.heroku.com/articles/git)
+2. Add on JawsDB [https://devcenter.heroku.com/articles/jawsdb](https://devcenter.heroku.com/articles/jawsdb)
 
 
-<details><summary>
-# friend-finder</summary>
-# ucsd-group-project-2
-ucsd full stack web group project #2 utilizing, api, handlebars and MySQL
-
-</details>

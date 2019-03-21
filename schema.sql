@@ -1,0 +1,7 @@
+CREATE DATABASE cars;
+USE cars;
+CREATE TABLE users(
+email VARCHAR(30) NOT NULL,
+user_name VARCHAR(30) NOT NULL,
+user_password VARCHAR(20) NOT NULL
+);
