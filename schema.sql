@@ -1,10 +1,11 @@
 CREATE DATABASE login_db;
 USE login_db;
-CREATE TABLE login_info(
-user_id INT NOT NULL AUTO_INCREMENT,
-user_email VARCHAR(30) NOT NULL,
-user_name VARCHAR(30) NOT NULL,
-user_password VARCHAR(30) NOT NULL,
-primary key(user_id)
+CREATE TABLE user(
+id INT NOT NULL AUTO_INCREMENT,
+email VARCHAR(30) NOT NULL,
+username VARCHAR(30) NOT NULL,
+name VARCHAR(30) NOT NULL,
+password VARCHAR(30) NOT NULL,
+primary key(id)
 );
 
